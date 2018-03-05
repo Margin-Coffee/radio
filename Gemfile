@@ -23,6 +23,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'shrine'
 gem "aws-sdk-s3", '~> 1.2'
 gem 'dotenv-rails'
+gem 'ruby-shout', '~>2.2', '>=2.2.2'
+gem 'sidekiq'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
